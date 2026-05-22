@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/til-you-cant/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Til You Can’t](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/til-you-cant/) |
+| **Get License** | [Official Music Licensing for Til You Can’t](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/til-you-cant/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I want to hold you til you can't let go
+> Take it nice and easy, take it nice and slow
+> I want to feel the rhythm of your breathing now
+> We can build a fire, I can show you how
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
